@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+      "module": "ESNext",
+      "moduleResolution": "Node",
+      "target": "ESNext",
+      "allowSyntheticDefaultImports": true,
+      /* ... your props ... */
+  },
+  "ts-node": {
+      "esm": true,
+      "experimentalSpecifierResolution": "node",
+      
+      
+  }
+}
